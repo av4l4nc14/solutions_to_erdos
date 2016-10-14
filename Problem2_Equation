@@ -1,0 +1,7 @@
+x>0 
+y>0
+x,y both belong to real numbers
+
+let y^2 =t
+solution to problem lies in finding a pair (t,x) such that 
+t= x^6 + 8*(x^4) - 6*(x^2) +8
