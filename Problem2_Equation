@@ -4,4 +4,16 @@ x,y both belong to real numbers
 
 let y^2 =t
 solution to problem lies in finding a pair (t,x) such that 
-t= x^6 + 8*(x^4) - 6*(x^2) +8
+t^3= x^6 + 8*(x^4) - 6*(x^2) +8
+
+
+
+
+the above code checks for x in range 0 -100 if it satisfies the above equation
+and the first solution is found for x=3 and t=11
+
+so answer 
+
+3345x + 4321t= 3345*3 + 4321*11=57566
+
+NOTE: ITS GIVEN THAT  SOLUTION DOES NOT EXCEED 10^7 SO FEASIBLE RANGE FOR CHECKING (BRUTE – FORCING)  FOR THE VALUE OF x WAS TILL 100.
